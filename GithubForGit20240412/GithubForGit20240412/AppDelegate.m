@@ -17,10 +17,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
-    NSLog(@"第一次上传项目");
-    
-    NSLog(@"张三输入了一些代码");
-    
+    NSLog(@"张三");
     
     return YES;
 }
