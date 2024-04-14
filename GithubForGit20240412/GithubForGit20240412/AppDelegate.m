@@ -18,24 +18,6 @@
     // Override point for customization after application launch.
     
     NSLog(@"张三");
-    NSLog(@"张三");
-    NSLog(@"张三");
-    NSLog(@"张三");
-    
-    
-    
-    
-    
-    NSLog(@"张三");
-    
-    
-    
-    
-    NSLog(@"张三");
-    
-    
-    
-    
     
     
     return YES;
