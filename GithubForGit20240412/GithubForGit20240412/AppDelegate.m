@@ -19,6 +19,8 @@
     
     NSLog(@"张三");
     
+    NSLog(@"张三");
+    
     return YES;
 }
 
